@@ -58,7 +58,7 @@ $echo 1 > /dev/myled0
 ```sh
 $echo 0 > /dev/myled0
 ```
-## 実行
+## 実行動画
 
 https://youtu.be/-Do5iTJT3wM
 
